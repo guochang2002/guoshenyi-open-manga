@@ -1,9 +1,10 @@
 
 # 使用教程
 ## 1.下载完ZIP,进行解压。
-![[Pasted image 20260814224950.png]]
 
-![[Pasted image 20260814225009.png|700]]
+<img src="漫画翻译图片/Pasted%20image%2020260814224950.png" alt="解压 ZIP 文件">
+
+<img src="漫画翻译图片/Pasted%20image%2020260814225009.png" alt="解压后的文件夹" width="700">
 
 
 
@@ -11,9 +12,9 @@
 ## 2.打开ob，选择对应的文件夹，即可
 
 
-![[Pasted image 20260814225015.png]]
+<img src="漫画翻译图片/Pasted%20image%2020260814225015.png" alt="打开 Obsidian">
 
-![[Pasted image 20260814225023.png|481]]
+<img src="漫画翻译图片/Pasted%20image%2020260814225023.png" alt="选择对应文件夹" width="481">
 
 
 
